@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Class</title>
+<style>
+.BlackBorder{
+border: 2px solid black;
+width: 200px;
+background-color: rgb(154, 146, 141);
+}
+</style>
+</head>
+<body>
+<!--Ek element kon sirf ek id di ja sakti hai,ek page mein,kyunki ids sirf idefier hota hai.-->
+<!--Ek element ko multiple tag di ja sakti hai-->
+<div id="mainBox"class="redBg BlackBorder">
+This main box.
+</div>
+<span class="redBg"></span>
+</body>
+</html>
+
